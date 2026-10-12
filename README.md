@@ -1,23 +1,29 @@
 # Alimat Smith 👩🏽‍💻
 
 🎓 **Computing for Business student @ Dublin City University (DCU)**  
-💡 Passionate about creating thoughtful, user-focused tech solutions that blend business strategy with modern development.  
+💡 Passionate about creating thoughtful, tech solutions that blend business strategy with modern development.  
 📍 Dublin, Ireland
 
 ## 👩🏽‍💻 About Me
 
-Hi! I’m Alimat — a tech-driven problem solver with a strong interest in **web development, UX, and business analytics**. I enjoy building efficient and user-friendly digital experiences that make an impact. With a foundation in programming (Python, Java), databases, and design-focused coursework, I aim to connect business goals with smart, scalable code.
+# Hi, I'm Alimat 👋
 
-I'm currently exploring projects that involve:
-- Frontend development & interaction design
-- E-commerce systems
-- Data-driven decision making
+I'm a Computing for Business student at Dublin City University. I like working where tech and business overlap, mostly because that's where I find the most interesting problems.
 
-## 🛠️ Tech & Tools
+I've interned at **SAP** and **AIB**, where I got hands-on with data analysis and reporting and saw how technology gets used in real business settings.
 
-- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
-- **Skills:** Web Development, Database Management, Business Analytics  
-- **Tools:** VS Code, Git, GitHub, MySQL  
+## What I'm working on
+
+- **Web development:** building web apps with Django
+- **Data analytics:** SQL, Python, Excel and Power BI
+- **Databases:** designing schemas and working with structured data
+
+## 🛠️ Tech
+
+- **Languages:** Python, Java, SQL, HTML, CSS, JavaScript, C, BASH
+- **Data:** SQL, Excel, Power BI
+- **Web and databases:** Django, MySQL
+- **Tools:** Git, GitHub, VS Code 
 - **Soft Skills:** Teamwork, Communication, Problem-solving, Customer Service  
 
 ## 📌 Projects
